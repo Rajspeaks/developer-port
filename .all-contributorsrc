@@ -1,0 +1,33 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Rajspeaks",
+      "name": "Rajdeep Das",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44817007?v=4",
+      "profile": "http://Rajspeaks.github.io/rd-port",
+      "contributions": [
+        "code",
+        "ideas",
+        "test",
+        "maintenance",
+        "doc",
+        "design",
+        "review",
+        "content",
+        "a11y"
+      ]
+    },
+   
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Rajspeaks.github.io/rd-port",
+  "projectOwner": "Rajspeaks",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
